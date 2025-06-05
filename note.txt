@@ -1,0 +1,1 @@
+https://localhost:7025/connect/authorize?client_id=postman&response_type=code&redirect_uri=https%3A%2F%2Foauth.pstmn.io%2Fv1%2Fcallback&scope=api%20openid&code_challenge=OA-dR1GeWOqmGCbPz7TbrdPtKu3uecDTSI08cCs0nTI&code_challenge_method=S256&state=abc
